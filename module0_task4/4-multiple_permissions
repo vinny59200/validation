@@ -1,5 +1,5 @@
 #!/bin/bash
 touch hello
-chmod 754 hello
+chmod ug+x,o+r hello
 
 
