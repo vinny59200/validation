@@ -4,3 +4,5 @@ set -eu -o pipefail
 cat > "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
 
 printf "Hello DevOps\n" ../>> "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
+
+
