@@ -1,6 +1,7 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 set -eu -o pipefail
-cat > "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
 
-printf "Hello DevOps\n" ../>> "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
+echo 'Hello DevOps' > "\*\\\'\"DevOps\"\'\\\*$\?\*\*\*\*\*:)"
+
+
